@@ -9,7 +9,7 @@ export const sizes = {
   large: 40,
   medium: 28,
   small: 20,
-  tiny: 15,
+  tiny: 16,
 };
 
 const Image = styled.div`
